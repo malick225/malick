@@ -1,0 +1,14 @@
+E:\COURS ET DOCUMENTS\licence 2\SEMESTRE 3\Informatique\VB.net\malick\bin\Debug\malick.exe.config
+E:\COURS ET DOCUMENTS\licence 2\SEMESTRE 3\Informatique\VB.net\malick\bin\Debug\malick.exe
+E:\COURS ET DOCUMENTS\licence 2\SEMESTRE 3\Informatique\VB.net\malick\bin\Debug\malick.pdb
+E:\COURS ET DOCUMENTS\licence 2\SEMESTRE 3\Informatique\VB.net\malick\bin\Debug\malick.xml
+E:\COURS ET DOCUMENTS\licence 2\SEMESTRE 3\Informatique\VB.net\malick\obj\Debug\malick.vbprojAssemblyReference.cache
+E:\COURS ET DOCUMENTS\licence 2\SEMESTRE 3\Informatique\VB.net\malick\obj\Debug\malick.Form1.resources
+E:\COURS ET DOCUMENTS\licence 2\SEMESTRE 3\Informatique\VB.net\malick\obj\Debug\malick.Form2.resources
+E:\COURS ET DOCUMENTS\licence 2\SEMESTRE 3\Informatique\VB.net\malick\obj\Debug\malick.Form3.resources
+E:\COURS ET DOCUMENTS\licence 2\SEMESTRE 3\Informatique\VB.net\malick\obj\Debug\malick.Resources.resources
+E:\COURS ET DOCUMENTS\licence 2\SEMESTRE 3\Informatique\VB.net\malick\obj\Debug\malick.vbproj.GenerateResource.cache
+E:\COURS ET DOCUMENTS\licence 2\SEMESTRE 3\Informatique\VB.net\malick\obj\Debug\malick.vbproj.CoreCompileInputs.cache
+E:\COURS ET DOCUMENTS\licence 2\SEMESTRE 3\Informatique\VB.net\malick\obj\Debug\malick.exe
+E:\COURS ET DOCUMENTS\licence 2\SEMESTRE 3\Informatique\VB.net\malick\obj\Debug\malick.xml
+E:\COURS ET DOCUMENTS\licence 2\SEMESTRE 3\Informatique\VB.net\malick\obj\Debug\malick.pdb
